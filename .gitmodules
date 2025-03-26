@@ -40,3 +40,6 @@
 [submodule "linear-algebra"]
 	path = linear-algebra
 	url = git@github.com:nhathuynguyen19/linear-algebra.git
+[submodule "mathematical-analysis"]
+	path = mathematical-analysis
+	url = git@github.com:nhathuynguyen19/mathematical-analysis.git
