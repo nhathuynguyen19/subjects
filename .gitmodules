@@ -1,3 +1,6 @@
 [submodule "uml"]
 	path = uml
 	url = git@github.com:nhathuynguyen19/uml.git
+[submodule "introdution-java"]
+	path = introdution-java
+	url = git@github.com:nhathuynguyen19/introdution-java.git
