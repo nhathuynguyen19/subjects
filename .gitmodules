@@ -43,3 +43,6 @@
 [submodule "mathematical-analysis"]
 	path = mathematical-analysis
 	url = git@github.com:nhathuynguyen19/mathematical-analysis.git
+[submodule "object-oriented-programming"]
+	path = object-oriented-programming
+	url = git@github.com:nhathuynguyen19/object-oriented-programming.git
