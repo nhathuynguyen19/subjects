@@ -31,3 +31,6 @@
 [submodule "decrete-math"]
 	path = decrete-math
 	url = git@github.com:nhathuynguyen19/decrete-math.git
+[submodule "environment"]
+	path = environment
+	url = git@github.com:nhathuynguyen19/environment.git
