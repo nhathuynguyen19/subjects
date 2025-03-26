@@ -19,3 +19,6 @@
 [submodule "cst"]
 	path = cst
 	url = git@github.com:nhathuynguyen19/cst.git
+[submodule "data-structure-and-algorithm"]
+	path = data-structure-and-algorithm
+	url = git@github.com:nhathuynguyen19/data-structure-and-algorithm.git
