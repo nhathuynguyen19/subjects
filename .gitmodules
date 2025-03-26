@@ -49,3 +49,6 @@
 [submodule "python"]
 	path = python
 	url = git@github.com:nhathuynguyen19/python.git
+[submodule "triet-hoc-marx-lennin"]
+	path = triet-hoc-marx-lennin
+	url = git@github.com:nhathuynguyen19/triet-hoc-marx-lennin.git
