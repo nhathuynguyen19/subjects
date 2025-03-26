@@ -37,3 +37,6 @@
 [submodule "introdution-to-programming"]
 	path = introdution-to-programming
 	url = git@github.com:nhathuynguyen19/introdution-to-programming.git
+[submodule "linear-algebra"]
+	path = linear-algebra
+	url = git@github.com:nhathuynguyen19/linear-algebra.git
