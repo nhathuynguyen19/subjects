@@ -10,3 +10,9 @@
 [submodule "sql-query-language"]
 	path = sql-query-language
 	url = git@github.com:nhathuynguyen19/sql-query-language.git
+[submodule "computer-network"]
+	path = computer-network
+	url = git@github.com:nhathuynguyen19/computer-network.git
+[submodule "computer-structure"]
+	path = computer-structure
+	url = git@github.com:nhathuynguyen19/computer-structure.git
