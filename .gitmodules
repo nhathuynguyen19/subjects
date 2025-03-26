@@ -16,3 +16,6 @@
 [submodule "computer-structure"]
 	path = computer-structure
 	url = git@github.com:nhathuynguyen19/computer-structure.git
+[submodule "cst"]
+	path = cst
+	url = git@github.com:nhathuynguyen19/cst.git
