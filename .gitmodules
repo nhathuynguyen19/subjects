@@ -7,3 +7,6 @@
 [submodule "os-principle"]
 	path = os-principle
 	url = git@github.com:nhathuynguyen19/os-principle.git
+[submodule "sql-query-language"]
+	path = sql-query-language
+	url = git@github.com:nhathuynguyen19/sql-query-language.git
