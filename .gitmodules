@@ -46,3 +46,6 @@
 [submodule "object-oriented-programming"]
 	path = object-oriented-programming
 	url = git@github.com:nhathuynguyen19/object-oriented-programming.git
+[submodule "python"]
+	path = python
+	url = git@github.com:nhathuynguyen19/python.git
