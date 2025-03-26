@@ -25,3 +25,6 @@
 [submodule "database-design"]
 	path = database-design
 	url = git@github.com:nhathuynguyen19/database-design.git
+[submodule "database-management-system"]
+	path = database-management-system
+	url = git@github.com:nhathuynguyen19/database-management-system.git
