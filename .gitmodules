@@ -4,3 +4,6 @@
 [submodule "introdution-java"]
 	path = introdution-java
 	url = git@github.com:nhathuynguyen19/introdution-java.git
+[submodule "os-principle"]
+	path = os-principle
+	url = git@github.com:nhathuynguyen19/os-principle.git
