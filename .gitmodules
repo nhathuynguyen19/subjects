@@ -22,3 +22,6 @@
 [submodule "data-structure-and-algorithm"]
 	path = data-structure-and-algorithm
 	url = git@github.com:nhathuynguyen19/data-structure-and-algorithm.git
+[submodule "database-design"]
+	path = database-design
+	url = git@github.com:nhathuynguyen19/database-design.git
