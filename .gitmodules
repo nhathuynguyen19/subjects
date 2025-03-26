@@ -28,3 +28,6 @@
 [submodule "database-management-system"]
 	path = database-management-system
 	url = git@github.com:nhathuynguyen19/database-management-system.git
+[submodule "decrete-math"]
+	path = decrete-math
+	url = git@github.com:nhathuynguyen19/decrete-math.git
